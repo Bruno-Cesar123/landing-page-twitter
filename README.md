@@ -1,4 +1,4 @@
-# Landing page Starbucks customizada.
+# Landing page Twitter.
 
 
 ## Descrição do Projeto
